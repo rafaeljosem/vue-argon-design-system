@@ -21,7 +21,7 @@
 
             <slot name="container-after"></slot>
 
-            <div class="collapse navbar-collapse" :class="{show: toggled}" :id="contentId" v-click-outside="closeMenu">
+            <div class="collapse navbar-collapse" :class="{show: toggled}" :id="contentId" v-click-outside="closeMenu" v-on:click="closeCondMenu">
                 <div class="navbar-collapse-header">
                     <slot name="content-header" :close-menu="closeMenu"></slot>
                 </div>
@@ -86,6 +86,12 @@ export default {
   methods: {
     onTitleClick(evt) {
       this.$emit("title-click", evt);
+    },
+    closeCondMenu(ev) {
+      // close the Nav on a link : means either a dropdown-item or not a dropdown
+      if (ev.target.className.startsWith("dropdown-item") || 
+                  !(ev.target.parentElement.className.startsWith("dropdown") || ev.target.parentElement.parentElement.className.startsWith("dropdown")))
+        this.toggled = false;
     },
     closeMenu() {
       this.toggled = false;
