@@ -15,6 +15,11 @@ import { FadeTransition } from "vue2-transitions";
 export default {
   components: {
     FadeTransition
+  },
+  updated: function () {
+    this.$nextTick(function () {
+      document.body.classList.remove('modal-open');
+    });
   }
 };
 </script>
