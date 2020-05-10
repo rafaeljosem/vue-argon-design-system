@@ -1,6 +1,6 @@
 # Changelog
 
-##[1.1.0] 2019-02-12
+## [1.1.0] 2019-02-12
 - Package updates
 - SSR fixes for checkboxes and radio
 - IE fixes
