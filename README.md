@@ -34,10 +34,26 @@
 
 <h2 id="quick-start">Quick start</h2>
 
+### Prerequisites 
+
+* Node v12 (eventually with build tools for gyp)
+* Yarn (npm -g install yarn)
+
+### Download
+
 <ul>
   <li><a href="https://github.com/bitlogik/vue-argon-design-system/archive/master.zip">Download from Github</a>.</li>
   <li>or clone the repo: <code>git clone https://github.com/bitlogik/vue-argon-design-system.git</code>.</li>
 </ul>
+
+### Install & run 
+`yarn install`  
+`yarn serve`
+
+or after install, build the static elements :
+`yarn build`
+
+The output static files are in the *dist* folder.
 
 <h2 id="documentation">Documentation</h2>
 
