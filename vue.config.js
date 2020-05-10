@@ -16,6 +16,7 @@ module.exports = {
     appleMobileWebAppCapable: 'yes',
     appleMobileWebAppStatusBarStyle: '#172b4d'
   },
+  publicPath: '',
   css: {
     // Enable CSS source maps.
     sourceMap: process.env.NODE_ENV !== 'production'
