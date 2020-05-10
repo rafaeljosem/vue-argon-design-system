@@ -6,9 +6,11 @@
 
 * Product Page: https://www.creative-tim.com/product/argon-design-system
 * Copyright 2019 Creative Tim (https://www.creative-tim.com)
+* Copyright 2020 BitLogiK (https://bitlogik.fr)
 * Licensed under MIT (https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md)
 
 * Coded by www.creative-tim.com
+* Maintained and actively supported by bitlogik.fr
 
 =========================================================
 
