@@ -3,7 +3,11 @@ module.exports = {
     [
       "@vue/app",
       {
-        "polyfills": ["es7.object.entries", "es6.promise"]
+        "polyfills": [
+            "es7.object.entries",
+            "es6.promise",
+            "es6.object.assign"
+        ]
       }
     ]
   ]
