@@ -53,6 +53,7 @@ export default {
   },
   methods: {
     onScroll(evt) {
+      // eslint-disable-next-line no-console
       console.log(evt);
     }
   }
