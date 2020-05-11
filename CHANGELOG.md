@@ -6,7 +6,7 @@
 - Fix a console warning at production build
 - Fix toggle switch [#42](https://github.com/creativetimofficial/vue-argon-design-system/issues/42)
 - Fix tooltips [#45](https://github.com/creativetimofficial/vue-argon-design-system/issues/45)
-- FIx frozen page when update with an opened modal [#22](https://github.com/creativetimofficial/vue-argon-design-system/issues/22)
+- Fix frozen page when update with an opened modal [#22](https://github.com/creativetimofficial/vue-argon-design-system/issues/22)
 - Fix input cleared (Vue2) [#30](https://github.com/creativetimofficial/vue-argon-design-system/issues/30)
 - Nav menu close on link click [#39](https://github.com/creativetimofficial/vue-argon-design-system/issues/39)
 - Add an option for relative path
