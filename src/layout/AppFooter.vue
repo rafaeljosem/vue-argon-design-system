@@ -68,7 +68,7 @@
                             <a href="http://blog.creative-tim.com" class="nav-link" target="_blank" rel="noopener">Blog</a>
                         </li>
                         <li class="nav-item">
-                            <a href="https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md"
+                            <a href="https://github.com/bitlogik/vue-argon-design-system/blob/master/LICENSE"
                                class="nav-link" target="_blank" rel="noopener">MIT License</a>
                         </li>
                     </ul>

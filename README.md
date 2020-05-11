@@ -77,7 +77,7 @@ Plus the last version of IE :
 <ul>
   <li>Demo: <a href="https://demo-vue-argon.bitlogik.fr">https://demo-vue-argon.bitlogik.fr</a></li>
   <li>Download: <a href="https://github.com/bitlogik/vue-argon-design-system/archive/master.zip">https://github.com/bitlogik/vue-argon-design-system/archive/master.zip</a> (or use git clone)</li>
-  <li>License Agreement: <a href="https://github.com/bitlogik/vue-argon-design-system/LICENSE">https://github.com/bitlogik/vue-argon-design-system/LICENSE</a></li>
+  <li>License Agreement: <a href="https://github.com/bitlogik/vue-argon-design-system/blob/master/LICENSE">https://github.com/bitlogik/vue-argon-design-system/blob/master/LICENSE</a></li>
   <li>Support: <a href="mailto:support@bitlogik.fr">support@bitlogik.fr</a></li>
   <li>Issues: <a href="https://github.com/bitlogik/vue-argon-design-system/issues">Github Issues Page</a></li>
 </ul>
@@ -106,7 +106,7 @@ Plus the last version of IE :
     <p>Copyright © 2020 BitLogiK (https://bitlogik.fr)</p>
   </li>
   <li>
-    <p>Licensed under MIT (https://github.com/bitlogik/vue-argon-design-system/blob/master/LICENSE.md)</p>
+    <p>Licensed under MIT (https://github.com/bitlogik/vue-argon-design-system/blob/master/LICENSE)</p>
   </li>
 </ul>
 
