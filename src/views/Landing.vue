@@ -514,6 +514,7 @@ export default {
   },
   methods : {
     sendmsg () {
+      /* eslint-disable no-console */
       console.log("Clicked on 'Send Message'");
       console.log("Name :");
       console.log(this.txtname);
@@ -521,6 +522,7 @@ export default {
       console.log(this.txtemail);
       console.log("Message :");
       console.log(this.txtmessage);
+      /* eslint-enable no-console */
       // Send the message
     }
   },
