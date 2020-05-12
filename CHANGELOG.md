@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.2.2] 2020-05-12
+- ESLint runs again
+- IE 11 new fix
+- Fix a new console warning at production build
+
 ## [1.2.0] 2020-05-11
 - Fix missing return in checkbox
 - IE 11 fix
