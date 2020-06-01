@@ -49,7 +49,7 @@ export default {
     },
     inlineClass() {
       if (this.inline) {
-        return `form-check-inline`;
+        return `custom-control-inline`;
       }
       return "";
     }
