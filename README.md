@@ -83,7 +83,7 @@ Plus the last version of IE :
 <p>We use GitHub Issues as the official bug tracker for the Vue Argon Design System. Here are some advices for our users that want to report an issue:</p>
 
 <ol>
-  <li>Make sure that you are using the latest version of the Vue Argon Design System. Check the CHANGELOG from <a href="https://github.com/bitlogik/vue-argon-design-system/CHANGELOG.md">this repository</a>.</li>
+  <li>Make sure that you are using the latest version of the Vue Argon Design System. Check the CHANGELOG from <a href="https://github.com/bitlogik/vue-argon-design-system/blob/master/CHANGELOG.md">this repository</a>.</li>
   <li>Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.</li>
   <li>Some issues may be browser specific, so specifying in what browser you encountered the issue might help.</li>
 </ol>
