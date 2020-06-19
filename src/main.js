@@ -1,7 +1,7 @@
 /*!
 
 =========================================================
-* Vue Argon Design System - v1.2.2
+* Vue Argon Design System - v1.2.3
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/argon-design-system

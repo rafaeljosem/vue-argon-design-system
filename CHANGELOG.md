@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.2.3] 2020-06-17
+- Fix bad inline class for radio buttons
+
 ## [1.2.2] 2020-05-12
 - ESLint runs again
 - IE 11 new fix
